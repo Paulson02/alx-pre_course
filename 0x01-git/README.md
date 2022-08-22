@@ -1,1 +1,2 @@
-This readme is meant only for this task
+My name is Paulson..
+I am yet to become a software developer
